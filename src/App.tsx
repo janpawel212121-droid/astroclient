@@ -143,7 +143,7 @@ function App() {
   };
 
   const guiImages = [
-    { url: GUI_LEGIT_URL, label: "Astro Client (Legit)" },
+    { url: GUI_LEGIT_URL, label: "Ksyxis Client (Legit)" },
     { url: GUI_NOLEGIT_URL, label: "Astro Client (HVH)" }
   ]
 
